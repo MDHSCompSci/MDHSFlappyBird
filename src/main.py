@@ -2,13 +2,15 @@ import pygame
 
 def main():
     """ Main program """
-    screenSize = (576, 1024)
+
+    length = 576
+    width = 1024
     
     ## initializing game
     pygame.init()
 
     # creating the display window
-    screen = pygame.display.set_mode(screenSize)
+    screen = pygame.display.set_mode((length, width))
 
     # manages the frame rate 
     clock = pygame.time.Clock()
