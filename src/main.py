@@ -3,8 +3,11 @@ import pygame
 def main():
     """ Main program """
 
-    length = 2000
-    width = 1024
+
+    length = 900
+    width = 1700
+
+
     
     ## initializing game
     pygame.init()
