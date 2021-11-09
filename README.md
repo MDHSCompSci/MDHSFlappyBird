@@ -1,3 +1,3 @@
 # MDHSFlappyBird
 
-# Bill was here, testing git
+# Bill was here testing GitHub
