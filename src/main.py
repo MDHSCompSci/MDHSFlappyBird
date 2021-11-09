@@ -3,7 +3,7 @@ import pygame
 def main():
     """ Main program """
 
-    length = 576
+    length = 1024
     width = 1024
     
     ## initializing game
