@@ -1,11 +1,11 @@
-import pygame
+import pygame, sys
 
 def main():
     """ Main program """
 
 
-    length = 900
-    width = 1700
+    length = 576
+    width = 1024
 
 
     
