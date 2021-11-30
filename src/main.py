@@ -4,7 +4,7 @@ def main():
     """ Main program """
 
 
-    length = 576
+    length = 570
     width = 1024
 
 
